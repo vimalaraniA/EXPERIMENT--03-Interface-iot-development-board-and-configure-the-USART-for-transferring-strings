@@ -195,8 +195,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  printf("VIMALARANIA");
-	  printf("2122230400240");
+	  printf("212223040240VIMALARANIA");
 	  HAL_Delay(500);
   }
   /* USER CODE END 3 */
